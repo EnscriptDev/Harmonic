@@ -1,4 +1,4 @@
-package dev.anksharskarp.argentabledelegate;
+package dev.anksharskarp.delegate;
 
 import androidx.appcompat.app.AppCompatActivity;
 
